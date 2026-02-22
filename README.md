@@ -39,4 +39,4 @@ g++ -O3 main.cpp -o program_name
 
 ---
 
-_Note_: Detailed information about each project, including specific build instructions and dependencies, can be found in the README.md files within their respective directories.
+_Note: Each directory contains its own dedicated README.md file with a more detailed description of the specific project, implemented algorithms, and mathematical background._
