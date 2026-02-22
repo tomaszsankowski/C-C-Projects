@@ -29,5 +29,14 @@ This repository serves as an archive for my C and C++ projects, ranging from low
 
 1. **Navigate** to the chosen project directory.
 2. **Compile** using the provided Makefile or manually via terminal:
-   ```bash
-   g++ -O3 main.cpp -o program_name
+```bash
+g++ -O3 main.cpp -o program_name
+```
+3. **Execute** the generated binary:
+```bash
+./program_name
+```
+
+---
+
+_Note_: Detailed information about each project, including specific build instructions and dependencies, can be found in the README.md files within their respective directories.
